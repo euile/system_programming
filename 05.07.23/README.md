@@ -1,0 +1,1 @@
+**the circular buffer contains 2 pointers. The first pointer points to the place from which we read, the second - to the place where we write the data. You also cannot read beyond the second pointer in the buffer.**
